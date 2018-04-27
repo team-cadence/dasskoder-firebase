@@ -1,0 +1,20 @@
+{
+	locations: [
+		{
+			"name": "Dasslokket",
+			"code": "0604",
+			"location": { 
+				"lat": "59.9102138", 
+				"lon": "10.7524852" 
+			}
+		},
+		{
+			"name": "Test",
+			"code": "ananas",
+			"location": { 
+				"lat": "59.92", 
+				"lon": "10.77" 
+			}
+		} 
+	]
+}
